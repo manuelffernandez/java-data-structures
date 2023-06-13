@@ -1,5 +1,8 @@
+import com.ll.LinkedListBehavior;
+
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world");
+    LinkedListBehavior LLTest = new LinkedListBehavior();
+    LLTest.runTest();
   }
 }
